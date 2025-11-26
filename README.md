@@ -169,20 +169,6 @@ Results on CBP2 benchmark traces:
 
 ---
 
-## ⚙️ Build & Run (CBP2 Infrastructure)
-
-If you want, I can generate a full section with:
-
-* Makefile
-* Build commands
-* Folder structure
-* Sample CBP2 output/log
-* Tips for debugging TAGE/Local/Meta interactions
-
-Just say **“add build instructions”**.
-
----
-
 ## 🙌 Acknowledgements
 
 This project was implemented for **ECE M116C (Computer Architecture)** at UCLA, taught by Prof.Nader Sehatbakhsh.
